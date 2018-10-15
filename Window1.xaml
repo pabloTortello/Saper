@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window
+	x:Class="WPF.Window1" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="WPF"
+	Height="535"
+	Width="515"
+	Name="GameWindow">
+	<Grid
+		Name="Grid1">
+		
+	</Grid>
+</Window>
